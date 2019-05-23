@@ -1,0 +1,10 @@
+categories:
+- Blog
+- CMS
+questions:
+- variable: persistence.enabled
+default: "false"
+description: "Enable persistent volume for WordPress"
+type: boolean
+required: true
+label: WordPress Persistent Volume Enabled
