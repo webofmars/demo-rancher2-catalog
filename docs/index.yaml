@@ -3,11 +3,11 @@ entries:
   demoapp:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-19T15:42:37.793379+02:00"
+    created: "2019-06-19T16:11:12.694592+02:00"
     description: A Helm chart for Kubernetes
-    digest: a09bc27de878dca27e7c4fbad80f1fe1d36940c3db1bcc25890d27e9463c60ce
+    digest: 6dd62add43977109d75582f84641ec928d6467f4da5c2fdf529c6dcd25276cb1
     name: demoapp
     urls:
     - demoapp-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-19T15:42:37.792904+02:00"
+generated: "2019-06-19T16:11:12.693473+02:00"
